@@ -1,0 +1,7 @@
+cn\bobohost\health\web\security\SpringSecurityUserService.class
+cn\bobohost\health\web\controller\UserController.class
+cn\bobohost\health\web\controller\SetmealController.class
+cn\bobohost\health\web\controller\CheckGroupController.class
+cn\bobohost\health\web\controller\ReportController.class
+cn\bobohost\health\web\controller\OrderSettingController.class
+cn\bobohost\health\web\controller\CheckItemController.class

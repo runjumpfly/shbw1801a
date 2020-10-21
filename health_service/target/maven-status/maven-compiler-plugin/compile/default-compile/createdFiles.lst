@@ -1,0 +1,8 @@
+cn\bobohost\health\service\impl\CheckItemServiceImpl.class
+cn\bobohost\health\service\impl\SetmealServiceImpl.class
+cn\bobohost\health\service\impl\OrderSettingServiceImpl.class
+cn\bobohost\health\service\impl\CheckGroupServiceImpl.class
+cn\bobohost\health\service\impl\MemberServiceImpl.class
+cn\bobohost\health\service\impl\UserServiceImpl.class
+cn\bobohost\health\service\impl\ReportServiceImpl.class
+cn\bobohost\health\service\impl\OrderServiceImpl.class

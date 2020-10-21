@@ -1,0 +1,8 @@
+cn\bobohost\health\service\CheckGroupService.class
+cn\bobohost\health\service\CheckItemService.class
+cn\bobohost\health\service\SetmealService.class
+cn\bobohost\health\service\OrderService.class
+cn\bobohost\health\service\UserService.class
+cn\bobohost\health\service\ReportService.class
+cn\bobohost\health\service\OrderSettingService.class
+cn\bobohost\health\service\MemberService.class

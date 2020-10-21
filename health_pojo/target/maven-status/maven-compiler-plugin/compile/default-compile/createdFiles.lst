@@ -1,0 +1,13 @@
+cn\bobohost\pojo\Role.class
+cn\bobohost\pojo\CheckGroup.class
+cn\bobohost\entity\Result.class
+cn\bobohost\pojo\User.class
+cn\bobohost\pojo\CheckItem.class
+cn\bobohost\pojo\Member.class
+cn\bobohost\entity\QueryPageBean.class
+cn\bobohost\pojo\Menu.class
+cn\bobohost\entity\PageResult.class
+cn\bobohost\pojo\Order.class
+cn\bobohost\pojo\Setmeal.class
+cn\bobohost\pojo\Permission.class
+cn\bobohost\pojo\OrderSetting.class

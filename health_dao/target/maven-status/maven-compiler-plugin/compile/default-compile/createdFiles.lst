@@ -1,0 +1,9 @@
+cn\bobohost\health\dao\CheckItemDao.class
+cn\bobohost\health\dao\PermissionDao.class
+cn\bobohost\health\dao\MemberDao.class
+cn\bobohost\health\dao\CheckGroupDao.class
+cn\bobohost\health\dao\UserDao.class
+cn\bobohost\health\dao\RoleDao.class
+cn\bobohost\health\dao\OrderDao.class
+cn\bobohost\health\dao\SetmealDao.class
+cn\bobohost\health\dao\OrderSettingDao.class
